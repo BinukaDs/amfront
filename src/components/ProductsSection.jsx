@@ -115,7 +115,7 @@ function ProductsSection() {
                             </p>
                             <h3 className="text-white mt-3">
                               {/* {item.commission} */}
-                              commision: $8.09
+                              commision: $ {item.commission}
                             </h3>
                           </div>
                         </div>
